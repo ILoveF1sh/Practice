@@ -10,4 +10,4 @@ Implemented patterns:
 
 # ECS
 Simple game made using Entity Component System <br />
-**Framework:** - Entitas
+**Framework:** Entitas
