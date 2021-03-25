@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using Patterns;
 public class DoubleProrotyper : MonoBehaviour,IPrototype
 {
     public int a = 2;

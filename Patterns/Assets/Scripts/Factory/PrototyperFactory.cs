@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Patterns;
 
 public class PrototyperFactory : MonoBehaviour
 {
@@ -15,8 +16,7 @@ public class PrototyperFactory : MonoBehaviour
         {
             ProrotyperTypes.SINGLE => singlePrototyper,
             ProrotyperTypes.DOUBLE => doublePrototyper,
-            ProrotyperTypes.TRIPE => triplePrototyper,
-
+            ProrotyperTypes.TRIPE => triplePrototyper
         };
     }
 }

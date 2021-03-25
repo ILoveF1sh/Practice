@@ -1,5 +1,8 @@
-
-public interface IPrototype
+namespace Patterns
 {
-    IPrototype[] GetClone();
+    public interface IPrototype
+    {
+        IPrototype[] GetClone();
+    }  
 }
+
