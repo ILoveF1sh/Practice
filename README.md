@@ -1,6 +1,3 @@
-# Practice
-My practice
-
 # Patterns
 Implementation different design patterns
 Implemented patterns:  
