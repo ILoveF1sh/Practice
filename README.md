@@ -1,5 +1,5 @@
 # Practice
-My learning and practic
+My practice
 
 # Patterns
 Implementation different design patterns
