@@ -9,5 +9,5 @@ Implemented patterns:
 **Decoupling** - EventBus, ServiceLocator.
 
 # ECS
-Simple game made using Entity Component System
+Simple game made using Entity Component System <br />
 **Framework:** - Entitas
